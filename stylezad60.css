@@ -1,0 +1,29 @@
+div#blok1_neprozvannyi {
+    background-color: #00ff00;
+    width: 629px;
+}
+
+div#blok2_neprozvannyi {
+    background-color: #00ff00;
+    width: 629px;
+}
+
+div#blok3_neprozvannyi {
+    background-color: #00ff00;
+    width: 620px;
+}
+
+div#blok1_neprozvannyi:hover {
+    background-color: green;
+    font-size: 20mm;
+}
+
+div#blok2_neprozvannyi:hover {
+    background-color: red;
+    font-size: 20mm;
+}
+
+div#blok3_neprozvannyi:hover {
+    background-color: blue;
+    font-size: 20mm;
+}

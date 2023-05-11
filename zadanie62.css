@@ -1,0 +1,37 @@
+body{
+background-color: brown
+}
+p
+{
+font-size:6mm;
+color:orange;
+}
+p:lang(pl)
+{
+font-size:11mm;
+font-weight:bold;
+color:gray;
+}
+p:lang(en)
+{
+font-size:15mm;
+font-style: italic;
+color: red;
+}A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: purple;
+}
+A:hover
+{
+color: brown;
+text-decoration: underline;
+}
